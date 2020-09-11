@@ -36,7 +36,7 @@ export default function Claimer({
           Claim Your XFI
         </Text>
         <Text fontSize="18px" color="blue.500">
-          2% released / hour
+          4% released / hour
         </Text>
         <Text fontSize="18px" color="lid.fg">
           XFI to Claim: {shortEther(accountRedeemable)}
